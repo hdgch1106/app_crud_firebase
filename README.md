@@ -18,8 +18,8 @@ Aplicación móvil que utiliza el framework Flutter y la plataforma Firebase de 
 
 ## Algunas capturas de pantalla de la aplicación
 
-![login](https://github.com/hdgch1106/crud_flutter_firebase/blob/main/screenshots/login.jpeg)
-![olvidaste](https://github.com/hdgch1106/crud_flutter_firebase/blob/main/screenshots/olvidaste.jpeg)
-![listar](https://github.com/hdgch1106/crud_flutter_firebase/blob/main/screenshots/listar.jpeg)
-![detalles](https://github.com/hdgch1106/crud_flutter_firebase/blob/main/screenshots/detalles.jpeg)
-![adicionar](https://github.com/hdgch1106/crud_flutter_firebase/blob/main/screenshots/adicionar.jpeg)
+![login](https://github.com/hdgch1106/app_crud_firebase/blob/main/screenshots/login.jpeg)
+![olvidaste](https://github.com/hdgch1106/app_crud_firebase/blob/main/screenshots/olvidaste.jpeg)
+![listar](https://github.com/hdgch1106/app_crud_firebase/blob/main/screenshots/listar.jpeg)
+![detalles](https://github.com/hdgch1106/app_crud_firebase/blob/main/screenshots/detalles.jpeg)
+![adicionar](https://github.com/hdgch1106/app_crud_firebase/blob/main/screenshots/adicionar.jpeg)
